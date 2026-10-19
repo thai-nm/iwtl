@@ -1,0 +1,9 @@
+{
+  "name": "iwtl",
+  "version": "0.1.0",
+  "description": "I want to learn: review code and teach the reviewer, with lessons on concepts, flaws, patterns, and anti-patterns.",
+  "author": {
+    "name": "Thai Nguyen"
+  },
+  "repository": "https://github.com/thai-nm/iwtl"
+}
