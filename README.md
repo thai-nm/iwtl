@@ -6,7 +6,20 @@ I want to learn!
 
 ## Install
 
-Install this repo as a Claude Code plugin.
+Inside a Claude Code session (version 2.1.275 or later), in one step:
+
+```
+/plugin install iwtl --marketplace thai-nm/iwtl
+```
+
+Or in two steps, which also work in your shell with `claude plugin ...`:
+
+```
+/plugin marketplace add thai-nm/iwtl
+/plugin install iwtl@iwtl
+```
+
+To try it without installing, clone the repo and run `claude --plugin-dir <path to the clone>`.
 
 ## Use
 

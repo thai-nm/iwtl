@@ -1,0 +1,14 @@
+{
+  "name": "iwtl",
+  "description": "I want to learn: review code and teach the reviewer",
+  "owner": {
+    "name": "Thai Nguyen"
+  },
+  "plugins": [
+    {
+      "name": "iwtl",
+      "source": "./",
+      "description": "Review code and teach the reviewer, with lessons on concepts, flaws, patterns, and anti-patterns."
+    }
+  ]
+}
